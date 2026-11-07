@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Kali%20Linux-404040?style=flat-square&labelColor=C00000&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/NetworkWalks-404040?style=flat-square&labelColor=C00000" />
   <img src="https://img.shields.io/badge/Ethical%20Hacking-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ajose%20Mauklo%20Elijah%20CCIE-C00000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Waqas%20Karim%20CCIE-C00000?style=flat-square" />
 </p>
  
 ---
@@ -80,8 +80,8 @@ Additional target machines can be added to the same virtual network in future pr
  
 | 🧩 Component       | ⚙️ Configuration                  |
 | ------------------ | --------------------------------- |
-| 🖥️ Host OS         | Windows 10                        |
-| 🧠 Host RAM        | 8 GB                              |
+| 🖥️ Host OS         | Windows 11                        |
+| 🧠 Host RAM        | 16 GB                             |
 | ⚡ Processor       | AMD Ryzen 3 PRO 2300U             |
 | 🧰 Hypervisor      | VirtualBox 7.2                    |
 | 🐉 Security OS     | Kali Linux 2025.2 (Rolling)       |
@@ -328,7 +328,7 @@ This laboratory is intended strictly for education purposes only.
 **Ajose Mauklo Elijah**\
 Cybersecurity Student B084
  
-LinkedIn: [[https://www.linkedin.com/in/waqaskarim/](https://www.linkedin.com/in/waqaskarim/)](https://www.linkedin.com/in/ajose-mauklo-elijah-58507736a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BtxossxFhR0etA9WYb0q52w%3D%3D)
+LinkedIn: www.linkedin.com/in/ajose-mauklo-elijah-58507736a
  
 ---
  
